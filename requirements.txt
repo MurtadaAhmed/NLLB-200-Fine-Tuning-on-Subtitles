@@ -1,0 +1,11 @@
+transformers
+datasets
+accelerate
+sentencepiece
+evaluate
+
+
+ipywidgets
+jupyter
+
+sacrebleu
